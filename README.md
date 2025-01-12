@@ -19,6 +19,10 @@ This web application leverages speech recognition and synthesis technologies to 
   - Supports multiple languages including English, Hindi, Arabic, Japanese, and Chinese.
 - **Text-to-Speech Playback**
   - Read aloud the transcribed text with adjustable language settings.
+- **Highlight Transcript Text**
+  - Highlight specific words or phrases in the transcript for easy reference and interaction.
+  - Click on highlighted text to remove the highlight.
+
 - **Dark Mode Toggle**
   - Switch between light and dark themes for better user experience.
 - **Copy Transcript to Clipboard**
