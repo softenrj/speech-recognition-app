@@ -60,10 +60,10 @@ npm start
 
 ## Screenshots
 - **Light Mode Interface:**
-- ![Light Mode Interface](screenshots/light-mode-interface.png)
+  ![Light Mode Interface](screenshots/light-mode-interface.png)
 
 - **Dark Mode Interface:**
-- ![Dark Mode Interface](screenshots/dark-mode-interface.png)
+  ![Dark Mode Interface](screenshots/dark-mode-interface.png)
 
 ## Future Enhancements
 - Add pitch and rate controls for text-to-speech playback.
